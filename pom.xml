@@ -24,7 +24,7 @@
   <packaging>war</packaging>
 
   <name>music</name>
-  <groupId>com.haut</groupId>
+  <groupId>ss.pku</groupId>
   <artifactId>music</artifactId>
   <version>1.0-SNAPSHOT</version>
 
@@ -97,7 +97,7 @@
   </properties>
   <dependencies>
     <!--dependency>
-      <groupId>com.haut.music</groupId>
+      <groupId>ss.pku.music</groupId>
       <artifactId>[the artifact id of the block to be mounted]</artifactId>
       <version>1.0-SNAPSHOT</version>
     </dependency-->

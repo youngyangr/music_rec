@@ -6,7 +6,131 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed9d83ae-ff6f-44b8-80e5-c784103121ce" name="Default" comment="" />
+    <list default="true" id="ed9d83ae-ff6f-44b8-80e5-c784103121ce" name="Default" comment="update">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/algorithm/CollaborativeFiltering.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/CollaborativeFiltering.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/algorithm/DailyAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/DailyAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/algorithm/DataTranslate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/DataTranslate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/algorithm/Edge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/Edge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/algorithm/Hybrid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/Hybrid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/algorithm/Listener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/Listener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/algorithm/MininumHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/MininumHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/algorithm/Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/Operator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/algorithm/SGD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/SGD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/algorithm/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/Sample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/algorithm/Similarity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/algorithm/Training.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/Training.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/algorithm/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/algorithm/UpdateTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/UpdateTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/algorithm/UserKNN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/UserKNN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/algorithm/W2DNetwork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/W2DNetwork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/algorithm/W2WNetwork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/W2WNetwork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/audio/Cifar10AudioClassifierDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/audio/ResNetV2AudioClassifierDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/audio/ResNetV2AudioClassifierDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/controller/CollectionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/controller/CollectionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/controller/DownloadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/controller/DownloadController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/controller/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/controller/MyMusicPageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/controller/MyMusicPageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/controller/NewTrackOnShelfController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/controller/NewTrackOnShelfController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/controller/PersonalRecController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/controller/RankingPageCotroller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/controller/RankingPageCotroller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/controller/RecordPlayController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/controller/RecordPlayController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/controller/RegisterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/controller/RegisterController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/controller/ReviewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/controller/ReviewController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/controller/SearchController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/controller/SongController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/controller/TrendingRecController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/controller/TrendingRecController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/dao/CollectionDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/dao/CollectionDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/dao/MyMusicDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/dao/MyMusicDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/dao/NewTrackOnShelfDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/dao/NewTrackOnShelfDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/dao/PersonalRecDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/dao/PersonalRecDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/dao/RankingPageDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/dao/RecordDownloadDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/dao/RecordDownloadDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/dao/RecordPlayDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/dao/RecordPlayDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/dao/ReviewDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/dao/ReviewDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/dao/SearchDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/dao/SongDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/dao/SongDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/dao/TrendingRecDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/dao/TrendingRecDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/dao/impl/CollectionDaoImpl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/dao/impl/MyMusicDaoImpl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/dao/impl/MyMusicDaoImpl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/dao/impl/NewTrackOnShelfDaoImlp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/dao/impl/NewTrackOnShelfDaoImlp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/dao/impl/PersonalRecDaoImpl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/dao/impl/PersonalRecDaoImpl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/dao/impl/RankingPageDaoImpl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/dao/impl/RankingPageDaoImpl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/dao/impl/RecordDownloadDaoImpl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/dao/impl/RecordPlayDaoImpl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/dao/impl/RecordPlayDaoImpl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/dao/impl/ReviewDaoImpl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/dao/impl/SearchDaoImpl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/dao/impl/SearchDaoImpl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/dao/impl/SongDaoImpl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/dao/impl/TrendingRecDaoImpl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/dao/impl/TrendingRecDaoImpl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/dao/impl/UserDaoImpl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/dao/impl/UserDaoImpl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/model/Collection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/model/DownloadRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/model/DownloadRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/model/Like.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/model/Like.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/model/PlayRecord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/model/Review.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/model/Review.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/model/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/model/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/model/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/recommenders/MusicRecommenderDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/recommenders/MusicRecommenderDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/service/CollectionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/service/CollectionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/service/MyMusicService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/service/MyMusicService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/service/NewTrackOnShelfService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/service/NewTrackOnShelfService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/service/PersonalRecService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/service/RankingPageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/service/RankingPageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/service/RecordDownloadService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/service/RecordDownloadService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/service/RecordPlayService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/service/ReviewService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/service/ReviewService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/service/SearchService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/service/SearchService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/service/SongService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/service/SongService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/service/TrendingRecService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/service/TrendingRecService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/service/impl/CollectionServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/service/impl/MyMusicServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/service/impl/NewTrackOnShelfServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/service/impl/NewTrackOnShelfServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/service/impl/PersonalRecServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/service/impl/PersonalRecServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/service/impl/RankingPageServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/service/impl/RankingPageServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/service/impl/RecordDownloadServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/service/impl/RecordDownloadServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/service/impl/RecordPlayServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/service/impl/RecordPlayServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/service/impl/ReviewServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/service/impl/ReviewServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/service/impl/SearchServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/service/impl/SongServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/service/impl/TrendingRecServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/service/impl/TrendingRecServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/utils/FileUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/utils/MD5Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/utils/MD5Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/utils/MailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/utils/MailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/utils/MailUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/utils/MailUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/utils/OneDayOneWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/utils/OneDayOneWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/utils/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/utils/Request.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/utils/ReturnMsg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/utils/ReturnMsg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haut/music/utils/Static.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ss/pku/music/utils/Static.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/bean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bean.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/trackstacking.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/data/database.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/haut/music/algorithm/DailyActionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ss/pku/music/algorithm/DailyActionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/haut/music/controller/RecordPlayControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ss/pku/music/controller/RecordPlayControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/haut/music/utils/MailUtilTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ss/pku/music/utils/MailUtilTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/haut/music/dao/impl/CollectionDaoImpl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/haut/music/dao/impl/MyMusicDaoImpl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/haut/music/dao/impl/NewTrackOnShelfDaoImlp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/haut/music/dao/impl/PersonalRecDaoImpl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/haut/music/dao/impl/RankingPageDaoImpl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/haut/music/dao/impl/RecordDownloadDaoImpl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/haut/music/dao/impl/RecordPlayDaoImpl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/haut/music/dao/impl/ReviewDaoImpl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/haut/music/dao/impl/SearchDaoImpl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/haut/music/dao/impl/SongDaoImpl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/haut/music/dao/impl/TrendingRecDaoImpl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/haut/music/dao/impl/UserDaoImpl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/music-1.0-SNAPSHOT/WEB-INF/classes/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/music-1.0-SNAPSHOT/WEB-INF/classes/jdbc.properties" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,77 +156,117 @@
     <session id="192870905">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.11" value="1" />
+          <entry key="project.closed" value="14" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.110" value="1" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.77" value="1" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.open.time.85" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="MF" value="1" />
-          <entry key="TXT" value="2" />
-          <entry key="bat" value="2" />
-          <entry key="class" value="1" />
+          <entry key="TXT" value="3" />
+          <entry key="bat" value="3" />
+          <entry key="class" value="2" />
           <entry key="iml" value="2" />
-          <entry key="java" value="28" />
+          <entry key="java" value="298" />
           <entry key="jpg" value="21" />
           <entry key="js" value="2" />
-          <entry key="jsp" value="5" />
+          <entry key="jsp" value="10" />
           <entry key="lrc" value="5" />
           <entry key="md" value="2" />
           <entry key="png" value="3" />
-          <entry key="properties" value="6" />
-          <entry key="sql" value="1" />
-          <entry key="xml" value="8" />
+          <entry key="properties" value="12" />
+          <entry key="sql" value="6" />
+          <entry key="xml" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="1" />
+          <entry key="CLASS" value="2" />
           <entry key="IDEA_MODULE" value="2" />
           <entry key="Image" value="24" />
-          <entry key="JAVA" value="28" />
-          <entry key="JSP" value="5" />
+          <entry key="JAVA" value="298" />
+          <entry key="JSP" value="10" />
           <entry key="JavaScript" value="2" />
           <entry key="Manifest" value="1" />
           <entry key="Markdown" value="2" />
-          <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Properties" value="6" />
-          <entry key="SQL" value="1" />
-          <entry key="XML" value="8" />
+          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="Properties" value="12" />
+          <entry key="SQL" value="6" />
+          <entry key="XML" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="229" />
+          <entry key="java" value="254" />
           <entry key="js" value="136" />
           <entry key="jsp" value="1" />
-          <entry key="properties" value="11" />
-          <entry key="sql" value="12" />
+          <entry key="properties" value="53" />
+          <entry key="sql" value="25" />
+          <entry key="txt" value="6" />
+          <entry key="xml" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="229" />
+          <entry key="JAVA" value="254" />
           <entry key="JSP" value="1" />
           <entry key="JavaScript" value="136" />
-          <entry key="Properties" value="11" />
-          <entry key="SQL" value="12" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Properties" value="53" />
+          <entry key="SQL" value="25" />
+          <entry key="XML" value="9" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/haut/music/recommenders/MusicRecommenderDemo.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/DailyAction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+            <state relative-caret-position="152">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/bean.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="874">
+              <caret line="46" column="79" lean-forward="true" selection-start-line="46" selection-start-column="79" selection-end-line="46" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/UpdateTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/Operator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -122,25 +286,26 @@
       <find>login.do</find>
       <find>form-signin</find>
       <find>ReturnMsg</find>
+      <find>yang</find>
+      <find>newTrackOnShelfFrameLoad</find>
+      <find>trendingCoefficient</find>
     </findStrings>
     <replaceStrings>
       <replace />
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/haut/music/utils/MailUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/haut/music/utils/SendMail.java" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/haut/music/service/impl/CollectionServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/haut/music/utils/MailService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/haut/music/controller/RegisterController.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/haut/music/audio/Cifar10AudioClassifierDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/haut/music/utils/FileUtils.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/haut/music/audio/ResNetV2AudioClassifierDemo.java" />
         <option value="$PROJECT_DIR$/src/main/resources/data/process.bat" />
         <option value="$PROJECT_DIR$/src/main/java/com/haut/music/algorithm/DataTranslate.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/songManageSearchFrame.jsp" />
@@ -148,16 +313,30 @@
         <option value="$PROJECT_DIR$/src/main/java/com/haut/music/controller/TrendingRecController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/haut/music/controller/MyMusicPageController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/haut/music/utils/Request.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/haut/music/utils/MailUtilTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/haut/music/controller/DownloadController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/haut/music/algorithm/W2WNetwork.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/data/trackstacking.sql" />
-        <option value="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/haut/music/controller/LoginController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/js/navbar.js" />
         <option value="$PROJECT_DIR$/src/main/java/com/haut/music/service/impl/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/haut/music/recommenders/MusicRecommenderDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haut/music/utils/FileUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haut/music/utils/MailService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haut/music/utils/MailUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haut/music/dao/ReviewDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haut/music/audio/Cifar10AudioClassifierDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haut/music/audio/ResNetV2AudioClassifierDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/data/trackstacking.sql" />
+        <option value="$PROJECT_DIR$/src/test/java/com/haut/music/algorithm/DailyActionTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/haut/music/controller/RecordPlayControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/haut/music/utils/MailUtilTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haut/music/service/impl/TrendingRecServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haut/music/service/impl/PersonalRecServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/haut/music/algorithm/DailyAction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/UpdateTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/DailyAction.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/bean.xml" />
       </list>
     </option>
   </component>
@@ -202,14 +381,13 @@
     <option name="width" value="995" />
     <option name="height" value="735" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -250,19 +428,21 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="music" type="462c0819:PsiDirectoryNode" />
-              <item name="recommenders" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1621327013045" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1623577880397" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../music" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -481,6 +661,16 @@
       <workItem from="1621326746375" duration="318000" />
       <workItem from="1621346160096" duration="19000" />
       <workItem from="1621427004945" duration="1583000" />
+      <workItem from="1621858705126" duration="1309000" />
+      <workItem from="1621941261927" duration="3008000" />
+      <workItem from="1622277696471" duration="5609000" />
+      <workItem from="1622284469173" duration="8507000" />
+      <workItem from="1622548529297" duration="1708000" />
+      <workItem from="1622891618886" duration="6492000" />
+      <workItem from="1622900152863" duration="2462000" />
+      <workItem from="1622907750339" duration="1576000" />
+      <workItem from="1623153521839" duration="944000" />
+      <workItem from="1623553412400" duration="10727000" />
     </task>
     <servers />
   </component>
@@ -490,13 +680,22 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50981000" />
+    <option name="totallyTimeSpent" value="93323000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.211126" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17158177" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -505,12 +704,48 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3282123" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4908397" weight="0.42877096" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.2951049" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4908397" weight="0.42517483" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32867134" />
+      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.49694657" weight="0.47765362" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32960895" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5091603" side_tool="true" weight="0.3310463" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32867134" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32960895" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Tool Output" order="14" weight="0.32960895" />
+      <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="ANTLR Preview" order="16" weight="0.32960895" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3297587" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17158177" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.2951049" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4908397" weight="0.42517483" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32867134" />
       <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.49694657" weight="0.47765362" />
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32960895" />
@@ -530,39 +765,6 @@
       <window_info anchor="right" id="Database" order="6" weight="0.3297587" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30458015" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Image Layers" order="5" />
-      <window_info id="Web" order="6" side_tool="true" />
-      <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49389312" visible="true" weight="0.34305316" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50610685" side_tool="true" weight="0.271012" />
-      <window_info anchor="bottom" id="Application Servers" order="8" sideWeight="0.49694657" weight="0.47855917" />
-      <window_info anchor="bottom" id="Messages" order="9" />
-      <window_info anchor="bottom" id="Java Enterprise" order="10" />
-      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Spring" order="12" />
-      <window_info anchor="bottom" id="Terminal" order="13" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -571,248 +773,407 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haut/music/controller/CollectionController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/controller/SearchController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="32" column="79" lean-forward="true" selection-start-line="32" selection-start-column="79" selection-end-line="32" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haut/music/controller/MyMusicPageController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/haut/music/controller/RecordPlayControllerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="21" column="56" lean-forward="true" selection-start-line="21" selection-start-column="56" selection-end-line="21" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/track/lyric/Aquilo - Losing You.lrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/track/lyric/BLACKPINK - BOOMBAYAH (붐바야).lrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-798" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/track/lyric/Boom.ZT - 爱哭鬼.lrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-678" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/track/lyric/王野 - 不是过错的错过.lrc">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haut/music/utils/FileUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haut/music/audio/Cifar10AudioClassifierDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/logback-spring.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mvc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/data/LIST.TXT">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/data/process.bat">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/reviewManageSearchFrame.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="42" column="24" lean-forward="true" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-512" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haut/music/controller/RegisterController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
+        <state relative-caret-position="95">
           <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/controller/ReviewController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2519">
-          <caret line="148" column="44" lean-forward="true" selection-start-line="148" selection-start-column="44" selection-end-line="148" selection-end-column="44" />
+        <state relative-caret-position="95">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/music.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haut/music/audio/ResNetV2AudioClassifierDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/controller/SongController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        <state relative-caret-position="-152">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/6.0.6/mysql-connector-java-6.0.6.jar!/com/mysql/cj/jdbc/ConnectionImpl.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="1139" selection-start-line="1139" selection-end-line="1139" />
+        <state relative-caret-position="95">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/dao/impl/TrendingRecDaoImpl.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="55" lean-forward="true" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/dao/TrendingRecDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/service/impl/TrendingRecServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haut/music/dao/impl/UserDaoImpl.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haut/music/dao/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="41" column="31" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haut/music/controller/IndexController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="17" column="21" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/add2list.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/navbar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/bean.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haut/music/service/impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haut/music/controller/LoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/image/1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/image/2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/image/3.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/image/defaultUserLogo.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/menu.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/cover2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/prev.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/volume.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/cover.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/image/slide6.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="201" column="16" lean-forward="true" selection-start-line="201" selection-start-column="16" selection-end-line="201" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/image/slide1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/image/slide2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/image/slide3.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/haut/music/recommenders/MusicRecommenderDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/service/TrendingRecService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/controller/TrendingRecController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/service/RecordPlayService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/controller/RecordPlayController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/service/RankingPageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/controller/RankingPageCotroller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/service/NewTrackOnShelfService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/controller/NewTrackOnShelfController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/service/MyMusicService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/controller/MyMusicPageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/controller/DownloadController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-166">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/controller/CollectionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/model/Song.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/utils/Request.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/controller/RegisterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="70" column="57" lean-forward="true" selection-start-line="70" selection-start-column="57" selection-end-line="70" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/DataTranslate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3073">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/Edge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/Similarity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/W2DNetwork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/W2WNetwork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1439">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/utils/Static.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1387">
+          <caret line="73" column="28" lean-forward="true" selection-start-line="73" selection-start-column="28" selection-end-line="73" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/SGD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/Training.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="65" column="12" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/Sample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="106" column="35" selection-start-line="106" selection-start-column="35" selection-end-line="106" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/MininumHeap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/dao/impl/PersonalRecDaoImpl.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/dao/PersonalRecDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-152">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/controller/PersonalRecController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="34" column="28" lean-forward="true" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/service/impl/PersonalRecServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-406">
+          <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/Listener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/CollaborativeFiltering.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/UserKNN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/Hybrid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="55" lean-forward="true" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/audio/ResNetV2AudioClassifierDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/audio/Cifar10AudioClassifierDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="14" column="65" selection-start-line="14" selection-start-column="65" selection-end-line="14" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/service/PersonalRecService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/UpdateTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/Operator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/service/CollectionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ss/pku/music/algorithm/DailyAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/bean.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="46" column="79" lean-forward="true" selection-start-line="46" selection-start-column="79" selection-end-line="46" selection-end-column="79" />
         </state>
       </provider>
     </entry>
