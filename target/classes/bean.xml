@@ -18,7 +18,7 @@
 
 	<!-- 扫描该包 -->
 	<context:component-scan base-package="com.haut.music.service.impl" />
-	<bean id="beanDefineConfigue" class="com.haut.music.algorithm.DailyAction"></bean>
+	<bean id="beanDefineConfigue" class="ss.pku.music.algorithm.DailyAction"></bean>
 
 	<!-- 引入property属性配置文件 -->  
 	<bean id="propertyConfig"
