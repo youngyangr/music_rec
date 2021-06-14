@@ -10,7 +10,6 @@ import ss.pku.music.model.DownloadRecord;
 import ss.pku.music.model.PlayRecord;
 import ss.pku.music.model.Song;
 import ss.pku.music.service.*;
-import ss.pku.music.service.*;
 import ss.pku.music.utils.Static;
 
 import javax.servlet.ServletContext;
@@ -99,7 +98,7 @@ public class DailyAction implements ApplicationListener<ContextRefreshedEvent> {
 						List<Song> songList=songService.getAllSongRecordsWithLyric();
 						if(songList!=null && songList.size()>1) {
 							Map<Integer,Integer[]> user2songRecMatrixHybrid=Hybrid.open(songList,user2songRecMatrix,
-																			collectionList,playList, servletContext);
+																			collectionList,playList,servletContext);
 							System.out.println("----混合 done----");
 							if(Static.isFromA) {
 								//向B中添加数据

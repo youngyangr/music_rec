@@ -7,7 +7,6 @@ import ss.pku.music.model.Collection;
 import ss.pku.music.model.DownloadRecord;
 import ss.pku.music.model.PlayRecord;
 import ss.pku.music.service.*;
-import ss.pku.music.service.*;
 import ss.pku.music.utils.Static;
 import org.springframework.stereotype.Repository;
 

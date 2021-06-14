@@ -45,7 +45,7 @@ public class CollaborativeFiltering {
 				for(int i=0;i<curUserRatings.length;i++) {
 					//对于没有听过的歌曲
 					/**
-					 * 这里需要注意的是，浮点数不能用==来比较...之前竟然犯了这个低级的错误...
+					 * 需要注意浮点数不能用==来比较
 					 * 故这里用 curUserRatings[i]<0.01f 来表示 curUserRatings[i]==0f
 					 */
 					if(curUserRatings[i]<0.01f) {

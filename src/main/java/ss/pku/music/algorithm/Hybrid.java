@@ -26,7 +26,7 @@ public class Hybrid {
 	 * @param user2songRecMatrix
 	 * 基于最近邻用户的协同过滤的结果矩阵|userId,recommended song Id[ ]|
 	 * @param collectionList
-	 * 用户收藏列表（优先从收藏列表中寻找相似度高的前N_BYRID个歌曲，如果收藏列表数量中不足，则从播放列表补充；
+	 * 用户收藏列表（优先从收藏列表中寻找相似度高的前N_HYBRID个歌曲，如果收藏列表数量中不足，则从播放列表补充；
 	 * 如果数量超过，则随机选择N_HYBRID个歌曲）
 	 * @param playList
 	 * 用户播放列表

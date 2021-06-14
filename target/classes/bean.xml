@@ -17,7 +17,7 @@
 		http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-3.2.xsd">
 
 	<!-- 扫描该包 -->
-	<context:component-scan base-package="com.haut.music.service.impl" />
+	<context:component-scan base-package="ss.pku.music.service.impl" />
 	<bean id="beanDefineConfigue" class="ss.pku.music.algorithm.DailyAction"></bean>
 
 	<!-- 引入property属性配置文件 -->  
@@ -40,10 +40,10 @@
 	<!-- Spring和MyBatis的整合 -->
 	<bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
 		<property name="dataSource" ref="dataSource" />
-		<property name="mapperLocations" value="classpath:com/haut/music/dao/impl/*.xml" />
+		<property name="mapperLocations" value="classpath:ss/pku/music/dao/impl/*.xml" />
 	</bean>
 	<bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
-		<property name="basePackage" value="com.haut.music.dao" />
+		<property name="basePackage" value="ss.pku.music.dao" />
 		<property name="sqlSessionFactoryBeanName" value="sqlSessionFactory" />
 	</bean>
 	
@@ -74,7 +74,7 @@
 	<!-- 切面 -->
 	<aop:config proxy-target-class="true">
 		<aop:advisor advice-ref="txAdvice"
-			pointcut="execution(* com.haut.music.service.impl.*.*(..))" />
+			pointcut="execution(* ss.pku.music.service.impl.*.*(..))" />
 	</aop:config>
 
 </beans>
